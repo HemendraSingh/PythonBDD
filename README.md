@@ -11,3 +11,7 @@ Then, issue the command:<br>
 pip3 install pytest-bdd
 
 Open the solution in your favourite editor (Like VSCode) and run the BDD test. 
+
+For enhanced development experience in VSCode install the following plugins:<br>
+Python
+PytestBDD
